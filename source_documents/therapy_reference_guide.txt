@@ -1,0 +1,238 @@
+COGNITIVE BEHAVIORAL THERAPY (CBT) — Reference Guide
+Source: Clinical Psychology Reference
+
+OVERVIEW
+Cognitive Behavioral Therapy (CBT) is a structured, time-limited psychotherapy that focuses on the relationship between thoughts, feelings, and behaviors. Developed by Aaron T. Beck in the 1960s, CBT is one of the most extensively researched forms of psychotherapy, with strong evidence for treating depression, anxiety disorders, PTSD, OCD, and many other conditions.
+
+CORE PRINCIPLES
+1. Thoughts influence feelings and behaviors — cognitive distortions maintain psychological distress
+2. Behaviors affect mood — behavioral activation can break the cycle of avoidance and low mood
+3. Skills learned in therapy can be practiced and applied independently
+4. The therapeutic relationship is collaborative — therapist and client work as a team
+
+COGNITIVE DISTORTIONS (Beck's Model)
+- All-or-nothing thinking: Viewing situations in black-and-white terms
+- Catastrophizing: Expecting the worst possible outcome
+- Mind reading: Assuming what others are thinking
+- Fortune telling: Predicting negative future events
+- Overgeneralization: Drawing broad conclusions from a single event
+- Emotional reasoning: Believing something is true because it feels true
+- Should statements: Rigid rules about how one or others must behave
+- Labeling: Applying a global label to oneself or others
+- Personalization: Taking excessive responsibility for events
+- Filtering: Focusing exclusively on negatives while ignoring positives
+
+THOUGHT RECORDS
+The thought record is a core CBT technique used to identify, challenge, and restructure automatic negative thoughts:
+1. Situation: What happened? When and where?
+2. Automatic thought: What went through your mind?
+3. Emotion: What did you feel? (Rate intensity 0–100%)
+4. Evidence for the thought
+5. Evidence against the thought
+6. Balanced/alternative thought
+7. Re-rate emotion after restructuring
+
+BEHAVIORAL ACTIVATION
+Behavioral activation targets the avoidance and withdrawal that maintain depression:
+- Activity scheduling: Planning pleasurable and meaningful activities
+- Monitoring mood and activity levels
+- Graded task assignment: Breaking overwhelming tasks into small steps
+- Pleasure and mastery ratings
+
+EXPOSURE THERAPY (for anxiety)
+Systematic desensitization through graduated exposure:
+- Create a fear hierarchy (0–100 SUDS scale)
+- Begin with least anxiety-provoking situation
+- Stay in the situation until anxiety naturally decreases
+- Progress up the hierarchy gradually
+- Imaginal exposure before in-vivo when necessary
+
+SOCRATIC QUESTIONING
+Used to guide clients to examine their own beliefs:
+- "What evidence do you have for that thought?"
+- "Is there another way to look at this situation?"
+- "What would you tell a friend who had this thought?"
+- "What's the most realistic outcome?"
+- "How would this look in 5 years?"
+
+APPLICATION IN ACADEMIC SETTINGS
+CBT is particularly effective for students experiencing:
+- Exam anxiety and test-related cognitive distortions
+- Procrastination driven by perfectionism
+- Academic performance-related depression
+- Social anxiety in classroom settings
+- Imposter syndrome and self-doubt
+
+---
+
+DIALECTICAL BEHAVIOR THERAPY (DBT) — Reference Guide
+
+OVERVIEW
+Dialectical Behavior Therapy (DBT) was developed by Marsha Linehan in the 1980s originally for borderline personality disorder. It combines standard CBT techniques with concepts from Zen Buddhism and dialectical philosophy. The core dialectic is between acceptance and change.
+
+THE BIOSOCIAL THEORY
+DBT is based on the biosocial theory: individuals who develop emotional dysregulation have a biological sensitivity to emotion combined with an invalidating environment. This creates a pattern of high emotional sensitivity, intense responses, and slow return to baseline.
+
+THE FOUR SKILL MODULES
+
+1. MINDFULNESS (Core Skills)
+- Wise Mind: Integration of Emotional Mind and Reasonable Mind
+- "What" Skills: Observe, Describe, Participate
+- "How" Skills: Non-judgmentally, One-mindfully, Effectively
+
+2. DISTRESS TOLERANCE
+- TIPP: Temperature (cold water), Intense exercise, Paced breathing, Progressive muscle relaxation
+- ACCEPTS: Activities, Contributing, Comparisons, Emotions, Pushing away, Thoughts, Sensations
+- Self-soothe with five senses
+- IMPROVE the Moment: Imagery, Meaning, Prayer, Relaxation, One thing in the moment, Vacation, Encouragement
+- Radical Acceptance: Completely accepting reality as it is, without judgment
+
+3. EMOTION REGULATION
+- Identifying and labeling emotions
+- Identifying obstacles to changing emotions
+- PLEASE: treat PhysicaL illness, Eat balanced, Avoid mood-altering substances, Sleep, Exercise
+- Build Positive Experiences (accumulate positives)
+- Build Mastery (do something each day that makes you feel competent)
+- Opposite Action: Act opposite to the urge when emotion is not justified
+
+4. INTERPERSONAL EFFECTIVENESS
+- DEAR MAN: Describe, Express, Assert, Reinforce, Mindful, Appear confident, Negotiate
+- GIVE: Gentle, Interested, Validate, Easy manner
+- FAST: Fair, Apologies (no unnecessary), Stick to values, Truthful
+- Identifying relationship priorities
+
+---
+
+ACCEPTANCE AND COMMITMENT THERAPY (ACT) — Reference Guide
+
+OVERVIEW
+Acceptance and Commitment Therapy (ACT) was developed by Steven C. Hayes in the 1980s. ACT is a contextual behavioral therapy that uses acceptance and mindfulness strategies alongside commitment and behavioral change strategies. The goal is to increase psychological flexibility — the ability to contact the present moment fully as a conscious human being, and to change or persist in behavior when doing so serves valued ends.
+
+THE SIX CORE PROCESSES (Hexaflex)
+
+1. ACCEPTANCE
+Making room for difficult thoughts, feelings, sensations without struggling against them. Acceptance is not resignation — it is willingness. Techniques: expansion exercises, allowing, opening up.
+
+2. DEFUSION (Cognitive Defusion)
+Creating distance from thoughts rather than being fused with them. Thoughts are just thoughts, not facts. Techniques:
+- "I notice I'm having the thought that…"
+- Leaves on a stream visualization
+- Thanking the mind
+- Labeling the process: "My mind is doing that thing again"
+- Singing the thought
+
+3. PRESENT MOMENT AWARENESS
+Flexible attention to the now. Mindfulness without judgment. Techniques: grounding exercises, body scan, noticing and describing present experience.
+
+4. SELF AS CONTEXT
+Experiencing the self as the observer — the noticing, consistent "I" that experiences thoughts and feelings but is not defined by them. The chessboard metaphor.
+
+5. VALUES
+Chosen life directions that give meaning and purpose. Values are not goals — they are ongoing qualities of action. Values clarification exercises: the tombstone exercise, the 80th birthday speech, the compass.
+
+6. COMMITTED ACTION
+Taking effective action guided by values, even in the presence of difficult thoughts and feelings. Setting SMART goals aligned with values. Building patterns of committed action.
+
+COMMON ACT METAPHORS
+- The Passengers on the Bus: You are the driver; thoughts are passengers
+- The Chessboard: Self as context vs. content
+- Quicksand: Struggling makes things worse; accept and move
+- The Tug of War: Drop the rope instead of fighting thoughts
+- Leaves on a Stream: Observing thoughts float by
+
+---
+
+SOLUTION-FOCUSED BRIEF THERAPY (SFBT) — Reference Guide
+
+OVERVIEW
+Solution-Focused Brief Therapy was developed by Steve de Shazer and Insoo Kim Berg at the Brief Family Therapy Center in Milwaukee in the 1980s. SFBT is future-focused and goal-directed, focusing on solutions rather than problems. It assumes clients have existing strengths and resources.
+
+CORE ASSUMPTIONS
+- Problems do not occur all the time — exceptions reveal solutions
+- Small changes lead to larger changes
+- The client is the expert on their own life
+- Therapy need not focus on problems to create solutions
+- If it works, do more of it; if it doesn't, do something different
+
+KEY TECHNIQUES
+
+THE MIRACLE QUESTION
+"Suppose that while you are sleeping tonight, a miracle happens and the problem that brought you here is solved. But since you're asleep, you don't know the miracle has happened. When you wake up tomorrow, what would be different that would tell you a miracle had occurred? What else would be different?"
+
+SCALING QUESTIONS
+"On a scale of 0 to 10, where 0 means things are at their worst and 10 means everything is exactly as you'd like it, where would you say things are right now?"
+- Follow-up: "What makes it a 4 and not a 3?"
+- "What would need to happen to move one point higher?"
+- "When was the last time it was one point higher?"
+
+EXCEPTION QUESTIONS
+"Tell me about a time when the problem was less intense, or when you handled it better."
+- "What was different then?"
+- "How did you make that happen?"
+- "What would need to happen for that to occur more often?"
+
+COPING QUESTIONS
+For clients who report nothing is working:
+"How have you managed to keep going despite all of this?"
+"What has stopped things from getting even worse?"
+
+COMPLIMENTS
+SFBT therapists give genuine compliments — direct (pointing out strengths observed) and indirect (asking about how they managed something impressive).
+
+SFBT IN ACADEMIC CONTEXTS
+- Helping students identify past academic successes
+- Building on existing study strategies that work
+- Creating concrete, achievable academic goals
+- Externalizing the problem ("When you are at your best as a student…")
+
+---
+
+MOTIVATIONAL INTERVIEWING (MI) — Reference Guide
+
+OVERVIEW
+Motivational Interviewing was developed by William R. Miller and Stephen Rollnick in the 1980s. MI is a collaborative, goal-oriented style of communication designed to strengthen a person's motivation and commitment to change. It is particularly useful when ambivalence is present.
+
+THE SPIRIT OF MI (PACE)
+- Partnership: MI is collaborative, not prescriptive
+- Acceptance: Absolute worth, accurate empathy, autonomy support, affirmation
+- Compassion: Acting in the client's best interest
+- Evocation: Drawing out the client's own motivation — it is already there
+
+THE FOUR PROCESSES
+1. Engaging: Establishing a working relationship
+2. Focusing: Developing and maintaining a specific direction
+3. Evoking: Eliciting motivation for change
+4. Planning: Developing commitment and a specific plan
+
+OARS — Core MI Skills
+- Open-ended Questions: "What brings you here today?" / "What concerns you most about this?"
+- Affirmations: Acknowledging strengths and efforts genuinely
+- Reflective Listening: Simple reflection, complex reflection, double-sided reflection, amplified reflection
+- Summaries: Collecting, linking, and transitional summaries
+
+CHANGE TALK (DARN-CAT)
+Elicit and reinforce change talk:
+- Desire: "I want to…" "I wish…"
+- Ability: "I could…" "I might be able to…"
+- Reasons: "The reason I want to change is…"
+- Need: "I need to…" "I have to…"
+- Commitment: "I will…" "I'm going to…"
+- Activation: "I'm ready to…" "I'm preparing to…"
+- Taking steps: "I actually did…"
+
+RESPONDING TO SUSTAIN TALK AND DISCORD
+- Roll with resistance — avoid arguing
+- Reflect sustain talk simply and move on
+- Explore ambivalence — "You have mixed feelings about this"
+- Emphasize personal choice and control
+- Reframe resistance as motivation in disguise
+
+EVOCATIVE QUESTIONS FOR STUDENTS
+- "What would it mean to you if you were able to improve your grades?"
+- "If nothing changed, where do you see yourself in a year?"
+- "What's most important to you about your studies?"
+- "On a scale of 1–10, how ready are you to make a change? What would make you one number higher?"
+- "What are some of the good things about the way things are now? What are some of the less good things?"
+
+THE RIGHTING REFLEX
+The righting reflex is the natural impulse to fix problems and offer advice. In MI, we resist this reflex because it often produces the opposite of the desired effect — when people feel pushed, they push back (sustain talk). Instead, we evoke the client's own arguments for change.
